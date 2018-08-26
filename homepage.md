@@ -1,6 +1,6 @@
 # CathyChang's Homepage
 
-! [cat](cat.jpg)
+![sweet cat](sweet-cat.jpg)
 
 <div id="toc">
 
