@@ -1,5 +1,7 @@
 # CathyChang's Homepage
 
+! [cat](/image/cat.jpg)
+
 <div id="toc">
 
 <!-- TOC -->
@@ -34,11 +36,19 @@ B.A in Beijing Sport University(Journalism)
 
 ### Tencent 
 
-Intern, Department of Reality Show Formats Development                     Mar 2018-Jul 2018
+![produce 101](/image/produce-101.png)
+
+Intern, Department of Reality Show Formats Development            *Mar 2018-Jul 2018*
+
+![mip tv](/image/mip-tv-2018.jpg)
 
 ### WeberShandwick
 
-Intern in Digital Team & Assistant of Creative Planner                        Aug 2017- Mar 2018
+![ocean spray](/image/ocean-spray.png)
+
+Intern in Digital Team & Assistant of Creative Planner            *Aug 2017- Mar 2018*
+
+![dolce gusto](/image/dolce-gusto.jpg)
 
 ## HOPE YOU LIKE MY HOMEPAGE!
 
