@@ -1,6 +1,6 @@
 # CathyChang's Homepage
 
-! [cat](/image/cat.jpg)
+! [cat](/example/cat.jpg)
 
 <div id="toc">
 
